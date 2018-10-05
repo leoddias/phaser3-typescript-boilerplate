@@ -14,7 +14,7 @@ Install the dependencies and devDependencies and start the dev-server.
 ```sh
 $ cd phaser3-typescript-boilerplate
 $ npm install
-$ node run dev
+$ npm run dev
 ```
 
 For production environments...
